@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Este es un repositorio de Prueba del precurso de Henry
+Este es una Prueba de como crear un repositorio y clonarlo desde el Github a mi equipo
